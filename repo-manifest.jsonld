@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/PyYoshi/cChardet/commit/be7279b765e1cf76002040dc36908b32a6f51c1e",
       "git:hexsha": "be7279b765e1cf76002040dc36908b32a6f51c1e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T07:05:18.829870+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PyYoshi/cChardet/commit/5e6d7e6ed2d3e5906f50fe48e4dd3aa5993f7e3e",
